@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Milky Tech Blog]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-02-18T09:53:57+01:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Tech@Milky]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Premier Post sur ce blog]]></title>
+    <link href="http://yoursite.com/blog/2013/02/18/premier-post-sur-ce-blog/"/>
+    <updated>2013-02-18T09:20:00+01:00</updated>
+    <id>http://yoursite.com/blog/2013/02/18/premier-post-sur-ce-blog</id>
+    <content type="html"><![CDATA[<p>Test sur ce contenu</p>
+
+<p>  rake db:drop</p>
+]]></content>
+  </entry>
+  
+</feed>
