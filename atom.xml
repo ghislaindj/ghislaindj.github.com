@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Milky Tech Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-02-18T09:53:57+01:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://ghislaindj.github.com/atom.xml" rel="self"/>
+  <link href="http://ghislaindj.github.com/"/>
+  <updated>2013-02-18T10:16:24+01:00</updated>
+  <id>http://ghislaindj.github.com/</id>
   <author>
     <name><![CDATA[Tech@Milky]]></name>
     
@@ -14,13 +14,31 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Premier Post sur ce blog]]></title>
-    <link href="http://yoursite.com/blog/2013/02/18/premier-post-sur-ce-blog/"/>
-    <updated>2013-02-18T09:20:00+01:00</updated>
-    <id>http://yoursite.com/blog/2013/02/18/premier-post-sur-ce-blog</id>
-    <content type="html"><![CDATA[<p>Test sur ce contenu</p>
+    <title type="html"><![CDATA[Second Post]]></title>
+    <link href="http://ghislaindj.github.com/blog/2013/02/18/second-post/"/>
+    <updated>2013-02-18T10:13:00+01:00</updated>
+    <id>http://ghislaindj.github.com/blog/2013/02/18/second-post</id>
+    <content type="html"><![CDATA[<p>Rab de test</p>
 
-<p>  rake db:drop</p>
+<pre><code>git clone blabla
+</code></pre>
+
+<p>Bla bla bla</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Premier Post sur ce blog]]></title>
+    <link href="http://ghislaindj.github.com/blog/2013/02/18/premier-post-sur-ce-blog/"/>
+    <updated>2013-02-18T09:20:00+01:00</updated>
+    <id>http://ghislaindj.github.com/blog/2013/02/18/premier-post-sur-ce-blog</id>
+    <content type="html"><![CDATA[<p>Test Test Test</p>
+
+<pre><code>rake db:drop
+rake maintenace:history_count
+</code></pre>
+
+<p>Bla bla bla</p>
 ]]></content>
   </entry>
   
